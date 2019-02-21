@@ -1,7 +1,7 @@
 {
-    "name": "xamin/handlebars.php",
+    "name": "piotr-tokarczyk/handlebars.php",
     "description": "Handlebars processor for php",
-    "homepage": "https://github.com/XaminProject/handlebars.php",
+    "homepage": "https://github.com/piotr-tokarczyk/handlebars.php",
     "type": "library",
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -14,6 +14,10 @@
         {
             "name": "Behrooz Shabani (everplays)",
             "email": "everplays@gmail.com"
+        },
+        {
+            "name": "Piotr Tokarczyk",
+            "email": "piotr.radoslaw.tokarczyk@gmail.com"
         }
     ],
     "require": {
